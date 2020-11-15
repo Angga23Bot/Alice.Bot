@@ -8,9 +8,11 @@ BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
 ## CARA INSTALL
 
 
-> download termux
-> buka
-> ketik
+> download termux.
+
+> buka.
+
+> lalu ketik.
 - apt update -y
 - apt upgrade -y
 - pkg install git -y
