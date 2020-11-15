@@ -1,4 +1,4 @@
-## Alice.Bot
+## Alice.Bot (Termux)
 BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
 
 # POWERED BY  : ALIO:RE
@@ -8,15 +8,15 @@ BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
 ## CARA INSTALL
 
 
-- download termux
-- buka
-- ketik
+> download termux
+> buka
+> ketik
 - apt update -y
 - apt upgrade -y
 - pkg install git -y
 - pkg install unzip -y
 - git clone https://github.com/Angga23Bot/Alice.Bot.git
-- cd bot-wacap
+- cd Alice.Bot
 - unzip Alice.Bot.zip
 - ls
 - cd Alice.Bot
