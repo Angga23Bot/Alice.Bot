@@ -1,25 +1,39 @@
-## Alicee-Bot
+## Alice.Bot
 BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
-# KU HANYA GABOET MBAK GISEL...
-# POWERED BY  : 19 DETIK
+
+# POWERED BY  : ALIO:RE
 
 
 
 ## CARA INSTALL
-# TERMUX
-```bash
-> download termux
-> buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/habibhantam445/Alicee-Bot.git
-> cd Alicee-Bot
-> bash install.sh
-> npm i
-> node index.js
-```
+
+
+- download termux
+- buka
+- ketik
+- apt update -y
+- apt upgrade -y
+- pkg install git -y
+- pkg install unzip -y
+- git clone https://github.com/MrG3P5/bot-wacap
+- cd bot-wacap
+- unzip bot-wacap.zip
+- ls
+- cd bot-wacap
+- ls
+- pkg install ffmpeg -y
+- pkg install wget -y
+- pkg install nodejs -y
+- npm i -g cwebp
+- npm i -g ytdl
+- npm i
+- npm i got
+- node index.js
+
+
+
+
+
 
 
 # FITUR
@@ -44,6 +58,6 @@ BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
 ket : ✅ : aktif
 
 # SPESIAL THANK'S
--HABIBHANTAM
+-BotWhatsApp
 -ALVIN
 -WARGAINDONESIA
