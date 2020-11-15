@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ALICE BOT 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/maureengabriella'; // Nama Instagramlu cok
-const whatsapplu = '0851-5632-1170'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'Link Not Found'; // OFFICIAL GRUP LU 1
-const grupch2 = 'Link Not Found'; // OFFICIAL GRUP LU 2
+const BotName = 'ALICE.BOT 🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/d8.bp'; // Nama Instagramlu cok
+const whatsapplu = '0813-3888-8294'; // Nomor whatsapplu cok
+const kapanbotaktif = 'Tidak tentu, Tergantung kondisi baterai hp dan kuota.'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/Bk2Fd07i3tF7ZuEBJ2SCg0'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/GyRG45whtZO8fyzWgtQ0yo'; // OFFICIAL GRUP LU 2
 //
 const
 {
