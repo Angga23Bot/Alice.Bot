@@ -15,11 +15,11 @@ BOT WHATSAPP YANG  BISA DIGUNAKAN DITERMUX
 - apt upgrade -y
 - pkg install git -y
 - pkg install unzip -y
-- git clone https://github.com/MrG3P5/bot-wacap
+- git clone https://github.com/Angga23Bot/Alice.Bot.git
 - cd bot-wacap
-- unzip bot-wacap.zip
+- unzip Alice.Bot.zip
 - ls
-- cd bot-wacap
+- cd Alice.Bot
 - ls
 - pkg install ffmpeg -y
 - pkg install wget -y
